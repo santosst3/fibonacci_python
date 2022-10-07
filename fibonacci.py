@@ -10,7 +10,7 @@ class fibonacci_number:
             self.n_current = 0
 
     def __repr__(self):
-        return f'fibonacci number of {self.n_max}: {self.n_current}'
+        return f'Number {self.n_max} of Fibonacci series: {self.n_current}'
 
     def calc_fibo_recursive(self, n):
         if n > 1:
