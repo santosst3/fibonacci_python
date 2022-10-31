@@ -23,5 +23,6 @@ fib1 = fibonacci_number(4)
 calc_fibo(fib1)
 print(fib1)
 
+
 def test_answer():
     assert fib1.n_current == 3
