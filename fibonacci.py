@@ -20,8 +20,8 @@ class fibonacci_number:
 
 
 fib1 = fibonacci_number(4)
-# calc_fibo(fib1)
-# print(fib1)
+calc_fibo(fib1)
+print(fib1)
 
 def test_answer():
-    assert calc_fibo(fib1) == 3
+    assert fib1.n_current == 3
