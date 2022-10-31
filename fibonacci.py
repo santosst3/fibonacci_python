@@ -19,5 +19,9 @@ class fibonacci_number:
         return n
 
 
-fib1 = fibonacci_number(5)
-calc_fibo(fib1)
+fib1 = fibonacci_number(4)
+# calc_fibo(fib1)
+# print(fib1)
+
+def test_answer():
+    assert calc_fibo(fib1) == 3
