@@ -25,4 +25,4 @@ print(fib1)
 
 
 def test_answer():
-    assert fib1.n_current == 3
+    assert fib1.n_current == 2
