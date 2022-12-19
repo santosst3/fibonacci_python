@@ -1,3 +1,3 @@
 # fibonacci_python
 
-Versão do código fibonacci em python, usando recursos de OOP
+Fibonacci code version in Python, using OOP features - Class example for GitHub Actions
